@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>2801OrchardAve</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287566,34.029264</coordinates></Point>
+</Placemark>
+<Placemark><name>StudyHall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.284303,34.028762</coordinates></Point>
+</Placemark>
+<Placemark><name>TheDunes</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287433,34.028511</coordinates></Point>
+</Placemark>
+<Placemark><name>TerraceApt</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28839,34.028843</coordinates></Point>
+</Placemark>
+<Placemark><name>ManasIndian</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.291786,34.028979</coordinates></Point>
+</Placemark>
+<Placemark><name>MenloAvenue</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.290377,34.028524</coordinates></Point>
+</Placemark>
+<Placemark><name>TrojanPlazaApt</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.289253,34.029915</coordinates></Point>
+</Placemark>
+<Placemark><name>ellendale</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.289345,34.030089</coordinates></Point>
+</Placemark>
+<Placemark><name>Mosaic</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.284331,34.030347</coordinates></Point>
+</Placemark>
+<Placemark><name>1210WestAdams</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287144,34.032595</coordinates></Point>
+</Placemark>
+</Document></kml>
